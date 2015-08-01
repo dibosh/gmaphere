@@ -2,7 +2,7 @@
   "name": "GMapHere",
   "version": "1.0",
   "icons": { "16": "gmaphere16.png", "128": "gmaphere128.png" },
-  "description": "Redirect to Google Maps with the location from 'here' when you press get direction from facebook.",
+  "description": "Redirect to Google Maps with the location from 'here' maps when you press get direction from a place in facebook.",
   "permissions": ["webRequest","webRequestBlocking", "*://www.here.com/directions/drive/"],
   "background": {
     "scripts": ["background.js"],

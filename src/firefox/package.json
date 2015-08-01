@@ -1,0 +1,12 @@
+{
+  "title": "GMapHere",
+  "name": "gmaphere",
+  "version": "1.0.0",
+  "description": "Redirect to Google Maps with the location from 'here' maps when you press get direction from a place in facebook.",
+  "main": "index.js",
+  "author": "Munim Dibosh",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
